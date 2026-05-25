@@ -303,9 +303,9 @@ By the end of this session, participants should be able to:
 
 [Lecture Slides](https://docs.google.com/presentation/d/1YBUrILJYpdou8WipnYIBXvjD92qBAtcL/edit?usp=sharing&ouid=115919056377396845025&rtpof=true&sd=true) 
 
-[Weekly Quiz](https://forms.gle/81PaF6jwx8YLtzwn6)
+[Weekly Quiz](https://forms.gle/P9zGioviCkMkE5TDA)
 
-[Feedback Form]()
+[Feedback Form](https://forms.gle/kK7D5fsgqgYmUbwM9)
 
 ---
 
