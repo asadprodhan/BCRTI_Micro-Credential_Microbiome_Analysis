@@ -576,14 +576,6 @@ BCRTI aims to support:
 - Research independence
 - Reproducible research capability
 
----
-
-# Citation
-
-Prodhan A.  
-**BCRTI — Bioinformatics Capability & Research Training Initiative**  
-School of Biological Sciences  
-The University of Western Australia
 
 ---
 
@@ -595,4 +587,5 @@ For collaboration or cohort enquiries:
 Adjunct Senior Lecturer  
 School of Biological Sciences  
 The University of Western Australia
+Asad.Prodhan@uwa.edu.au
 
