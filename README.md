@@ -301,11 +301,11 @@ By the end of this session, participants should be able to:
 
 ## Week 1 Resources
 
-| Resource | Link |
-|---|---|
-| Lecture Slides | *Coming Soon* |
-| Weekly Quiz | *Coming Soon* |
-| Feedback Form | *Coming Soon* |
+[Lecture Slides](https://docs.google.com/presentation/d/1YBUrILJYpdou8WipnYIBXvjD92qBAtcL/edit?usp=sharing&ouid=115919056377396845025&rtpof=true&sd=true) 
+
+[Weekly Quiz](https://forms.gle/81PaF6jwx8YLtzwn6)
+
+[Feedback Form]()
 
 ---
 
