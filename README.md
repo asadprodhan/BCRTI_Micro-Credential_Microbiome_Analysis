@@ -40,7 +40,18 @@ This commonly results in:
 - Reduced analytical confidence
 - Long delays between data generation and manuscript preparation
 
+
+<p align="center">
+  <img 
+    src="https://github.com/asadprodhan/BCRTI_Micro-Credential_Microbiome_Analysis/blob/main/BCRTI_HDR_Training_AsadProdhan.png"
+ align="center" width=100% height=100% >   
+</p>
+<p align = center>
 BCRTI was specifically developed to reduce this bottleneck through focused, guided, research-integrated training.
+</p>
+
+<br />
+
 
 ---
 
