@@ -57,11 +57,10 @@ BCRTI aims to build:
 
 The initiative is intentionally designed around:
 
-- Authentic research workflows
 - Real-world datasets
 - Research reproducibility
 - Publication-ready outputs
-- Capability development rather than software memorisation
+- Why analysis matters, not just how. Capability development rather than software memorisation
 
 ---
 
@@ -108,7 +107,7 @@ No prior bioinformatics experience is required.
 The BCRTI training model combines:
 
 | Component | Purpose |
-|---|---|
+|:---|:---|
 | Theoretical lectures | Build conceptual understanding |
 | Guided practical workflows | Develop technical capability |
 | Example datasets | Learn standardised workflows |
@@ -122,9 +121,9 @@ The BCRTI training model combines:
 # Program Structure
 
 | Week | Topic | Format |
-|---|---|---|
+|:---|:---|:---|
 | Week 1 | The Microbiome & How We Study It | Theory |
-| Week 2 | Two Bioinformatics Workflows | Theory + Practical |
+| Week 2 | Two Bioinformatics Workflows | Theory |
 | Week 3 | Quality Control & Data Preparation | Hands-on Workshop |
 | Week 4 | From Reads to Taxonomy | Hands-on Workshop |
 | Week 5 | Diversity Analysis & Differential Abundance | Hands-on Workshop |
@@ -192,8 +191,8 @@ By the end of this micro-credential, participants should be able to:
   - Weeks 3–6: Hands-on workshops
 - Cohort size:
   - Small-group model for guided support
-- Participant datasets:
-  - Integrated wherever possible
+- Datasets:
+  - Teaching dataset
 
 ---
 
@@ -205,8 +204,6 @@ The following tools are introduced throughout the micro-credential:
 - DADA2
 - R
 - ggplot2
-- Kraken2
-- HUMAnN3
 - Phyloseq
 
 ---
